@@ -33,19 +33,19 @@ const projects = [
     title: "Pizza",
     img: project03,
     imgBig: project03Big,
-    gitHubLink: "https://github.com/Michael-Budchenko/Nft",
+    gitHubLink: "https://github.com/Michael-Budchenko/pizza",
   },
   {
     title: "Sneakers",
     img: project04,
     imgBig: project04Big,
-    gitHubLink: "https://github.com/Michael-Budchenko/Nft",
+    gitHubLink: "https://github.com/Michael-Budchenko/sneackers",
   },
   {
     title: "IPSI landing page",
     img: project05,
     imgBig: project05Big,
-    gitHubLink: "https://github.com/Michael-Budchenko/Nft",
+    gitHubLink: "https://github.com/Michael-Budchenko/IPSI",
   },
   {
     title: "LYNQ mobile",
